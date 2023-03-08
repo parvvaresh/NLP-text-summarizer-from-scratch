@@ -1,8 +1,7 @@
 # NLP text summarizer from scratch
 
 ## What is a text summarizer?
-NLP text summarizer is one of the cool applications of NLP(Natural Language Processing), which shortens the long document into shorter while retaining all important information from the document. You can see its live implementation in many news apps, and websites.
-Read more –> Everything you need to learn about NLP
+NLP text summarizer is one of the cool applications of NLP(Natural Language Processing), which shortens the long document into shorter while retaining all important information from the document.
 
 ## Idea behind this project
 So how are we gonna do this? Actually, there are lots of ways we can do this but today I will show you the most basic and easy version of NLP text summarizer, which you can create by yourself very easily. So, below are the steps we are going to perform
